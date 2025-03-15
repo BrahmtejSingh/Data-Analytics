@@ -66,5 +66,3 @@ If you have any questions or would like to collaborate, feel free to reach out:
 - **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
 
 ---
-*This repository is continuously updated as I work on new projects. Stay tuned for more insights!*
-
