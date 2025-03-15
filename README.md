@@ -55,18 +55,14 @@ The repository includes various datasets in CSV and Excel format, such as:
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/your-repository.git
+   gh repo clone BrahmtejSingh/Data-Analytics
    ```
-2. Navigate to the project folder:
-   ```bash
-   cd your-repository
-   ```
-3. Open relevant files using your preferred tool (SQL IDE, Jupyter Notebook, Excel, Power BI, or Tableau).
+2. Open relevant files using your preferred tool (SQL IDE, Jupyter Notebook, Excel, Power BI, or Tableau).
 
 ## Contact
 If you have any questions or would like to collaborate, feel free to reach out:
 - **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile](https://linkedin.com/in/your-profile)
+- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/brahmtej-singh-29730a1a8/))
 - **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
 
 ---
