@@ -49,7 +49,7 @@ The repository includes various datasets in CSV and Excel format, such as:
 - Layoffs dataset
 - E-commerce transaction data
 - Video game sales dataset
-- Airbnb listings
+- Airbnb listings (URL => https://www.kaggle.com/datasets/airbnb/seattle?select=reviews.csv)
 - Starbucks sales data
 
 ## How to Use
@@ -61,8 +61,8 @@ The repository includes various datasets in CSV and Excel format, such as:
 
 ## Contact
 If you have any questions or would like to collaborate, feel free to reach out:
-- **Email**: your.email@example.com
-- **LinkedIn**: [Your LinkedIn Profile]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/brahmtej-singh-29730a1a8/))
+- **Email**: brahmtejsingh768@gmail.com
+- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/brahmtej-singh-29730a1a8/)
 - **Portfolio**: [Your Portfolio Website](https://your-portfolio.com)
 
 ---
